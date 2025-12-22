@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜明け前に飛び乗って",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-22T13:16:17.260881Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明け前に飛び乗って",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_夜明け前に飛び乗って_MIMI.txt"
+    }
+  ]
+}
